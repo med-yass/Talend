@@ -103,6 +103,18 @@
       <relatedItems xmi:id="_X-7crzgNEei-DpTT0bmTQg" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_X-7csDgNEei-DpTT0bmTQg" id="_ha93ICFBEeixZ-B8jOd-VA - TEMP_FCLIENT" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_ajKdgDgZEei-DpTT0bmTQg">
+      <baseItem xmi:id="_ajKdgTgZEei-DpTT0bmTQg" id="_roFpADgXEei-DpTT0bmTQg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_ajKdgjgZEei-DpTT0bmTQg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdgzgZEei-DpTT0bmTQg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdhDgZEei-DpTT0bmTQg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdhTgZEei-DpTT0bmTQg" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdhjgZEei-DpTT0bmTQg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdhzgZEei-DpTT0bmTQg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdiDgZEei-DpTT0bmTQg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdiTgZEei-DpTT0bmTQg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ajKdijgZEei-DpTT0bmTQg" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_qmg4QDgMEei-DpTT0bmTQg" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="ok"/>
     <migrationTask xmi:id="_qmg4QTgMEei-DpTT0bmTQg" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="ok"/>
     <migrationTask xmi:id="_qmg4QjgMEei-DpTT0bmTQg" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
