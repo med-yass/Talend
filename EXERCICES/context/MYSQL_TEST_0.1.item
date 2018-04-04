@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_X8GLEDgNEei-DpTT0bmTQg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_X8GLETgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_Password" prompt="MYSQL_TEST_Password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_X8GLEjgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_Port" prompt="MYSQL_TEST_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_X8GLEzgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_AdditionalParams" prompt="MYSQL_TEST_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter xmi:id="_X8GLFDgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_Server" prompt="MYSQL_TEST_Server?" promptNeeded="false" type="id_String" value="127.0.0.1"/>
+  <contextParameter xmi:id="_X8GLFTgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_Database" prompt="MYSQL_TEST_Database?" promptNeeded="false" type="id_String" value="TEST"/>
+  <contextParameter xmi:id="_X8GLFjgNEei-DpTT0bmTQg" comment="" name="MYSQL_TEST_Login" prompt="MYSQL_TEST_Login?" promptNeeded="false" type="id_String" value="root"/>
+</talendfile:ContextType>
